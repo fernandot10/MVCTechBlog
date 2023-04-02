@@ -32,7 +32,7 @@
 
   ## Usage
 
-  - [MvcTechBlogGuide]()
+  - [MvcTechBlogGuide](https://drive.google.com/file/d/1cJTKXnAuBtTnHAE0qgMajP3tlTLK_3Ff/view?usp=share_link)
   - [REPO](https://github.com/fernandot10/MVCTechBlog)
   - [HEROKU](https://mvc-tech-blog-ft.herokuapp.com/)
 
